@@ -1,0 +1,28 @@
+2025-03-13 20:49:14,042 - INFO - Spark session initialized successfully.
+2025-03-13 20:49:14,043 - INFO - Loading datasets...
+2025-03-13 20:49:17,023 - INFO - Datasets loaded successfully.
+2025-03-13 20:49:20,524 - INFO - Schema validation passed for Movies.
+2025-03-13 20:49:20,525 - INFO - Schema validation passed for Ratings.
+2025-03-13 20:49:20,526 - INFO - Schema validation passed for Users.
+2025-03-13 20:49:22,382 - INFO - Filtered movies released after 1989.
+2025-03-13 20:49:22,406 - INFO - Removed duplicate entries from datasets.
+2025-03-13 20:49:25,728 - INFO - Filtered users aged 18-49.
+2025-03-13 20:49:25,743 - INFO - Filtered ratings between 1.0 and 5.0.
+2025-03-13 20:49:25,752 - INFO - Ensured Genre column is not empty.
+2025-03-13 20:49:25,972 - INFO - Computed average ratings per genre and year.
+2025-03-13 20:49:53,054 - INFO - ETL Job Completed Successfully! Output saved at: output/csv_results\output_2025-03-13.csv
+2025-03-13 20:49:53,521 - INFO - Spark session stopped.
+2025-03-15 14:19:10,889 - INFO - Spark session initialized successfully.
+2025-03-15 14:19:10,890 - INFO - Loading datasets...
+2025-03-15 14:19:13,781 - INFO - Datasets loaded successfully.
+2025-03-15 14:19:17,022 - INFO - Schema validation passed for Movies.
+2025-03-15 14:19:17,024 - INFO - Schema validation passed for Ratings.
+2025-03-15 14:19:17,026 - INFO - Schema validation passed for Users.
+2025-03-15 14:19:18,884 - INFO - Filtered movies released after 1989.
+2025-03-15 14:19:18,902 - INFO - Removed duplicate entries from datasets.
+2025-03-15 14:19:21,644 - INFO - Filtered users aged 18-49.
+2025-03-15 14:19:21,658 - INFO - Filtered ratings between 1.0 and 5.0.
+2025-03-15 14:19:21,666 - INFO - Ensured Genre column is not empty.
+2025-03-15 14:19:21,908 - INFO - Computed average ratings per genre and year.
+2025-03-15 14:19:47,070 - INFO - ETL Job Completed Successfully! Output saved at: output/csv_results\output_2025-03-15.csv
+2025-03-15 14:19:47,849 - INFO - Spark session stopped.
